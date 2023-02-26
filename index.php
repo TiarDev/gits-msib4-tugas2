@@ -275,7 +275,7 @@
                                     <span class="progressText">HTML 5</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">  
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100">  
                                             </div>
                                         </div>
                                         <h3>90%</h3>	
@@ -285,7 +285,7 @@
                                     <span class="progressText">CSS</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="20" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="20" aria-valuemax="100">
                                                
                                            </div>
                                         </div>
@@ -296,7 +296,7 @@
                                     <span class="progressText">JS</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="30" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="30" aria-valuemax="100">
                                                 
                                            </div>
                                         </div>
@@ -307,7 +307,7 @@
                                     <span class="progressText">PHP</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="25" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="25" aria-valuemax="100">
                                                 
                                            </div>
                                         </div>
@@ -322,7 +322,7 @@
                                     <span class="progressText">MYSQL</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="20" aria-valuemax="100" style="">
+                                            <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="20" aria-valuemax="100">
                                                 
                                             </div>
                                         </div>
@@ -333,7 +333,7 @@
                                     <span class="progressText">css 3 animation</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="20" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="20" aria-valuemax="100">
                                                 
                                            </div>
                                         </div>
@@ -344,7 +344,7 @@
                                     <span class="progressText">communication</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="15" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="15" aria-valuemax="100">
                                                
                                            </div>
                                         </div>
@@ -355,7 +355,7 @@
                                     <span class="progressText"> creativity</span>
                                     <div class="single-progress-txt">
                                         <div class="progress ">
-                                           <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="30" aria-valuemax="100" style="">
+                                           <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="30" aria-valuemax="100">
                                                 
                                            </div>
                                         </div>
